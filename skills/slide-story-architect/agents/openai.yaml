@@ -1,0 +1,7 @@
+interface:
+  display_name: "演示叙事架构师"
+  short_description: "先建立观众决策和故事线，再设计每一页"
+  default_prompt: "使用 $slide-story-architect 把这些材料整理成演示叙事和逐页规格。"
+
+policy:
+  allow_implicit_invocation: true
